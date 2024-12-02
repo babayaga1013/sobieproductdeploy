@@ -13,6 +13,11 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 | ![Image 1](bootstraphotel.png) | ![Image 2](bootstrapregistration.png) | 
 |-------------------------|-------------------------|
 
+<p align="center">
+  <img width="600" height="200" src="bootstraphotel.png">
+    <img width="600" height="200" src="bootstrapregistration.png">
+</p>
+
 ### Bootstrap Code
 <div style="text-align: center;">
     <img width="100%" src="bootstrapcode.png">
@@ -20,3 +25,5 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 <div style="text-align: center;">
     <img width="100%" src="bootstrapcode2.png">
 </div>
+
+#Solution
