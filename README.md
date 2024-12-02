@@ -15,5 +15,5 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 
 ![Bootstrapcode!](bootstrapcode.png)
 <p align="center">
-![Bootstrapcode!](bootstrapcode2.png)
+![Bootstrapcode](bootstrapcode2.png)
 </p>
