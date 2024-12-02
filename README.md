@@ -10,9 +10,5 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 ### Bootstrap design
 ![BootstrapDesign!](bootstrapdesign.png)
 
-|||
-|:-:|:-:|
-|![First Image](bootstraphotel.png)|![Second Image](bootstrapregistration.png)|
-
 | ![Image 1](bootstraphotel.png) | ![Image 2](bootstrapregistration.png) | 
 |-------------------------|-------------------------|
