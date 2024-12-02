@@ -43,6 +43,7 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
     color: #333;
     margin: 0;
     padding: 20px;
-}```
+  }
+  ```
 # Pull Requests
 - [Pull Request #132](https://github.com/barrycumbie/sobieconference.org/pull/132)
