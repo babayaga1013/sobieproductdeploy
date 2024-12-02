@@ -14,10 +14,9 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 |-------------------------|-------------------------|
 
 <p align="center">
-  <img src="bootstraphotel.png">
-    <img  src="bootstrapregistration.png">
+  <img src="bootstraphotel.png" alt="Image 1" width="200" style="margin-right: 10px;">
+  <img src="bootstrapregistration.png" alt="Image 2" width="200" style="margin-right: 10px;">
 </p>
-
 ### Bootstrap Code
 <div style="text-align: center;">
     <img width="100%" src="bootstrapcode.png">
@@ -26,4 +25,4 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
     <img width="100%" src="bootstrapcode2.png">
 </div>
 
-#Solution
+### Solution
