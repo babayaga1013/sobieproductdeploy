@@ -15,8 +15,8 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 
 ### Bootstrap Code
 <div style="text-align: center;">
-    <img width="80%" src="bootstrapcode.png">
+    <img width="100%" src="bootstrapcode.png">
 </div>
 <div style="text-align: center;">
-    <img width="80%" src="bootstrapcode2.png">
+    <img width="100%" src="bootstrapcode2.png">
 </div>
