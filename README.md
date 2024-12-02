@@ -9,6 +9,5 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 
 ### Bootstrap design
 ![BootstrapDesign!](bootstrapdesign.png)
-<figure markdown> 
-  ![BootstrapDesignhotel!](bootstraphotel.png) ![BootstrapDesigncards!](bootstraphotel.png)
-</figure>
+
+|![BootstrapDesignhotel!](bootstraphotel.png) ![BootstrapDesigncards!](bootstraphotel.png)|
