@@ -26,4 +26,4 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 | ![Image 1](csscode1.png) | ![Image 2](csscode2.png) | 
 |-------------------------|-------------------------|
 
-![Solution!](bootstrapdesign.png)
+![Solution!](solution.png)
