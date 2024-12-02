@@ -14,4 +14,4 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 
 |First Image|Second Image|
 |:-:|:-:|
-|![First Image](https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg?h=750&w=1260)|![Second Image](https://images.pexels.com/photos/1335115/pexels-photo-1335115.jpeg?h=750&w=1260)|
+|![First Image](bootstraphotel.png)|![Second Image](bootstraphotel.png)|
