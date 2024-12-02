@@ -29,7 +29,7 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 ![Solution!](solution.png)
 
 ### Message for future developers
-- import the css file into your project using code --------> ''' <link rel="stylesheet" href="styles/read.css">'''
+- import the css file into your project using code --------> ``` <link rel="stylesheet" href="styles/read.css"> ```
 
 ### Pull Requests
 - [Pull Request #132](https://github.com/barrycumbie/sobieconference.org/pull/132)
