@@ -21,7 +21,7 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
     <img width="50%" src="bootstrapcode2.png">
 </div>
 
-### Solution using CSS
+# Solution using CSS
 
 | ![Image 1](csscode1.png) | ![Image 2](csscode2.png) | 
 |-------------------------|-------------------------|
