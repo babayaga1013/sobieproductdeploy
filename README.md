@@ -18,7 +18,7 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
     <img width="100%" src="bootstrapcode.png">
 </div>
 <div style="text-align: center;">
-    <img width="100%" src="bootstrapcode2.png">
+    <img width="50%" src="bootstrapcode2.png">
 </div>
 
 ### Solution
