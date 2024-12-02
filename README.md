@@ -14,8 +14,8 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 |-------------------------|-------------------------|
 
 <p align="center">
-  <img width="600" height="200" src="bootstraphotel.png">
-    <img width="600" height="200" src="bootstrapregistration.png">
+  <img src="bootstraphotel.png">
+    <img  src="bootstrapregistration.png">
 </p>
 
 ### Bootstrap Code
