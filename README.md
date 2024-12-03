@@ -23,7 +23,7 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 
 # Solution using CSS
 
-| ![Image 1](csscode1.png) | ![Image 2](csscode2.png) | 
+| ![Image 1](upcode2.png) | ![Image 2](upcode3.png) | 
 |-------------------------|-------------------------|
 
 <div style="text-align: center;">
