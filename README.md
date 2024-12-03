@@ -36,15 +36,13 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 | ![Code](YellowGreenStyles.png) | ![Continued](YellowGreenStyles.png) |
 |-------------------------|-------------------------|
 | ![Solution](YellowGreenSolution.png) | ![Continued](YellowGreenSolution2.png) |
-|-------------------------|-------------------------|
 
 # Programs and Proceedings
 
 | ![Proceedings Code](ProceedingsCode.png) | ![Programs Code](ProgramCode.png) | 
 |-------------------------|-------------------------|
-
 | ![Proceedings](ProceedingsImg.png) | ![Programs](Programs.png) |
-|-------------------------|-------------------------|
+
 
 # Message for future developers
 ### 1. Include the CSS File
