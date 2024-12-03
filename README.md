@@ -26,12 +26,11 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 | ![Image 1](csscode1.png) | ![Image 2](csscode2.png) | 
 |-------------------------|-------------------------|
 
-| ![Solution](YellowGreenSolution.png) | ![Continued](YellowGreenSolution2.png) |
-|-------------------------|-------------------------|
 
 ![Aleternative Solution](solution.png)
 
-
+| ![Solution](YellowGreenSolution.png) | ![Continued](YellowGreenSolution2.png) |
+|-------------------------|-------------------------|
 
 # Message for future developers
 ### 1. Include the CSS File
