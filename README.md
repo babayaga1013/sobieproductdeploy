@@ -30,8 +30,11 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
     <img width="70%" src="bluecss.png">
 </div>
 
-![Aleternative Solution](solution.png)
+![Alternative Solution](solution.png)
 
+
+| ![Code](YellowGreenStyles.png) | ![Continued](YellowGreenStyles.png) |
+|-------------------------|-------------------------|
 | ![Solution](YellowGreenSolution.png) | ![Continued](YellowGreenSolution2.png) |
 |-------------------------|-------------------------|
 
