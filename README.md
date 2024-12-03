@@ -30,7 +30,7 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 |-------------------------|-------------------------|
 
 ![Aleternative Solution](solution.png)
-|-------------------------|-------------------------|
+
 
 
 # Message for future developers
