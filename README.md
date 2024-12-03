@@ -57,3 +57,4 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 # Branches/Code
 - [Branch iss138real](https://github.com/barrycumbie/sobieconference.org/tree/iss138real)
 - [Branch iss87](https://github.com/barrycumbie/sobieconference.org/tree/iss87)
+https://github.com/barrycumbie/sobieconference.org/tree/iss87/public/docs
