@@ -35,6 +35,14 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 | ![Solution](YellowGreenSolution.png) | ![Continued](YellowGreenSolution2.png) |
 |-------------------------|-------------------------|
 
+# Programs and Proceedings
+
+| ![Proceedings Code](ProceedingsCode.png) | ![Programs Code](ProgramCode.png) | 
+|-------------------------|-------------------------|
+
+| ![Proceedings](Proceedings.png) | ![Programs](programs.png) |
+|-------------------------|-------------------------|
+
 # Message for future developers
 ### 1. Include the CSS File
 - import the css file into your project using code --------> ``` <link rel="stylesheet" href="styles/read.css"> ```
