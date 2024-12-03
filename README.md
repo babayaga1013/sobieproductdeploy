@@ -15,9 +15,6 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 
 # Bootstrap Code
 <div style="text-align: center;">
-    <img width="100%" src="bluecss.png">
-</div>
-<div style="text-align: center;">
     <img width="100%" src="bootstrapcode.png">
 </div>
 <div style="text-align: center;">
@@ -29,6 +26,9 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 | ![Image 1](csscode1.png) | ![Image 2](csscode2.png) | 
 |-------------------------|-------------------------|
 
+<div style="text-align: center;">
+    <img width="70%" src="bluecss.png">
+</div>
 
 ![Aleternative Solution](solution.png)
 
