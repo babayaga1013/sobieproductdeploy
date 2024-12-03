@@ -40,7 +40,7 @@ We attempted to use Bootstrap to enhance the design of the SOBIE project webpage
 | ![Proceedings Code](ProceedingsCode.png) | ![Programs Code](ProgramCode.png) | 
 |-------------------------|-------------------------|
 
-| ![Proceedings](Proceedings.png) | ![Programs](programs.png) |
+| ![Proceedings](ProceedingsImg.png) | ![Programs](programs.png) |
 |-------------------------|-------------------------|
 
 # Message for future developers
